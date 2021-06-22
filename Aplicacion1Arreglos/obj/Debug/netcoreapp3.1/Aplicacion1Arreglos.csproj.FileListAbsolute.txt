@@ -1,0 +1,13 @@
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\bin\Debug\netcoreapp3.1\Aplicacion1Arreglos.exe
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\bin\Debug\netcoreapp3.1\Aplicacion1Arreglos.deps.json
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\bin\Debug\netcoreapp3.1\Aplicacion1Arreglos.runtimeconfig.json
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\bin\Debug\netcoreapp3.1\Aplicacion1Arreglos.runtimeconfig.dev.json
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\bin\Debug\netcoreapp3.1\Aplicacion1Arreglos.dll
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\bin\Debug\netcoreapp3.1\Aplicacion1Arreglos.pdb
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.csprojAssemblyReference.cache
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.AssemblyInfoInputs.cache
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.AssemblyInfo.cs
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.csproj.CoreCompileInputs.cache
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.dll
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.pdb
+D:\visual_studio\Aplicacion1Arreglos\Aplicacion1Arreglos\obj\Debug\netcoreapp3.1\Aplicacion1Arreglos.genruntimeconfig.cache
